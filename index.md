@@ -11,7 +11,128 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
 
 ## Results
 
-TODO: results table
+<table border="0" class="dataframe tg">
+  <thead>
+    <tr style="text-align: center;">
+      <th>team</th>
+      <th>Transcript</th>
+      <th>Paper Baseline</th>
+      <th>Team 1</th>
+      <th>Team 2</th>
+      <th>Team 3</th>
+      <th>Team 4</th>
+    </tr>
+    <tr>
+      <th>file_index</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>הי, אתם על חיות כיס, אני שאול אמסטרדמסקי.
+אתם האזנתם לחיות כיס, הפודקאסט הכלכלי של כאן.
+עורך חיות כיס הוא תומר מיכלזון.
+במערכת חיות כיס תמצאו גם את צליל אברהם,</td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/baseline/1_opening_baseline.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_1/1_opening_maxim_melichov_and_tony_hasson.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_2/1_opening_maxim_lvov.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_3/1_opening_ gaby.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_4/1_opening_gruss.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>אבל מה שעובר על סמוטריץ הוא לא הסיפור. הסיפור הוא משהו אחר לגמרי.</td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/baseline/2_story_baseline.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_1/2_story_maxim_melichov_tony_hasson.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_2/2_story_maxim_lvov.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_3/2_story_gaby.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_4/2_story_gruss.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>ובשביל להבין למה מחיר הדלק כל כך עלה, צריך לחזור שנתיים אחורנית.</td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/baseline/3_prices_baseline.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_1/3_prices_maxim_melichov_tony_hasson.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_2/3_prices_maxim_lvov.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_3/3_prices_gaby.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_4/3_prices_gruss.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>כששאלתי אותה למה היא החליטה לפתוח עסק של לק גל, התשובה שלה היתה מאוד ברורה,</td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/baseline/4_nailpolish_baseline.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_1/4_nailpolish_maxim_melichov_tony_hasson.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_2/4_nailpolish_maxim_lvov.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_3/4_nailpolish_gaby.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_4/4_nailpolish_gruss.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>תגידו, גנבו לכם פעם את האוטו ופשוט ידעתם שאין טעם להגיש תלונה במשטרה?</td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/baseline/5_police_baseline.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_1/5_police_maxim_melichov_tony_hasson.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_2/5_police_maxim_lvov.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_3/5_police_gaby.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/team_4/5_police_gruss.wav" type="audio/wav">
+</audio></td>
+    </tr>
+  </tbody>
+</table>
 
 The dataset and benchmark TTS system were published at INTERSPEECH 2023 as [SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion](TODO)
 
@@ -59,6 +180,7 @@ In conclusion, I summarize my experience in the finest contest with this phrase:
 [LinkedIn](https://www.linkedin.com/in/gabriel-khvalevsky/) [Email](mailto:gaby2002yo@gmail.com)
 ### Team 4
 [Solution link (Google Colab)](http://bit.ly/roboshaul)
+
 Dr. Eyal Gruss - Code/media/text artist, algorithms researcher, teaches computational creativity at the Holon institute of Technology.
 
 ### Contact
