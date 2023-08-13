@@ -28,6 +28,8 @@ title: Robo-Shaul project
   }
   .tg td:first-child {
     padding: 0px 10px;
+    direction: rtl;
+    text-align: right;
   }
 
   .tg th {
