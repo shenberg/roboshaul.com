@@ -112,7 +112,7 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
   <thead>
     <tr style="text-align: center;">
       <th>Transcript</th>
-      <th>Paper Baseline</th>
+      <th>Baseline</th>
       <th>Team 1</th>
       <th>Team 2</th>
       <th>Team 3</th>
