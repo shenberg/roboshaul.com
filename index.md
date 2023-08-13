@@ -17,7 +17,7 @@ title: Robo-Shaul project
     font-family: Arial, sans-serif;
     font-size: 14px;
     overflow: hidden;
-    padding: 0px 20px;
+    padding: 0px 0px;
     word-break: normal;
     font-weight: bold;
     vertical-align: middle;
@@ -25,6 +25,9 @@ title: Robo-Shaul project
     /*white-space: nowrap;*/
     white-space: normal;
     text-align: center
+  }
+  .tg tr:first-child td {
+    padding: 0px 10px;
   }
 
   .tg th {
@@ -108,7 +111,6 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
 <table border="0" class="dataframe tg">
   <thead>
     <tr style="text-align: center;">
-      <th>team</th>
       <th>Transcript</th>
       <th>Paper Baseline</th>
       <th>Team 1</th>
@@ -116,19 +118,9 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
       <th>Team 3</th>
       <th>Team 4</th>
     </tr>
-    <tr>
-      <th>file_index</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
   </thead>
   <tbody>
     <tr>
-      <th>1</th>
       <td>הי, אתם על חיות כיס, אני שאול אמסטרדמסקי.
 אתם האזנתם לחיות כיס, הפודקאסט הכלכלי של כאן.
 עורך חיות כיס הוא תומר מיכלזון.
@@ -150,7 +142,6 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
 </audio></td>
     </tr>
     <tr>
-      <th>2</th>
       <td>אבל מה שעובר על סמוטריץ הוא לא הסיפור. הסיפור הוא משהו אחר לגמרי.</td>
       <td><audio id="audio-small" controls>
     <source src="audio/baseline/2_story_baseline.wav" type="audio/wav">
@@ -169,7 +160,6 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
 </audio></td>
     </tr>
     <tr>
-      <th>3</th>
       <td>ובשביל להבין למה מחיר הדלק כל כך עלה, צריך לחזור שנתיים אחורנית.</td>
       <td><audio id="audio-small" controls>
     <source src="audio/baseline/3_prices_baseline.wav" type="audio/wav">
@@ -188,7 +178,6 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
 </audio></td>
     </tr>
     <tr>
-      <th>4</th>
       <td>כששאלתי אותה למה היא החליטה לפתוח עסק של לק גל, התשובה שלה היתה מאוד ברורה,</td>
       <td><audio id="audio-small" controls>
     <source src="audio/baseline/4_nailpolish_baseline.wav" type="audio/wav">
@@ -207,7 +196,6 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
 </audio></td>
     </tr>
     <tr>
-      <th>5</th>
       <td>תגידו, גנבו לכם פעם את האוטו ופשוט ידעתם שאין טעם להגיש תלונה במשטרה?</td>
       <td><audio id="audio-small" controls>
     <source src="audio/baseline/5_police_baseline.wav" type="audio/wav">
