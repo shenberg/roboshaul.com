@@ -1,5 +1,6 @@
-# פרוייקט רובו-שאול - Robo-Shaul project
-
+---
+title: פרוייקט רובו-שאול - Robo-Shaul project
+---
 The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamski, presenter of the "Hayot Kis" podcast, **in Hebrew**. The competition ran between Feb 22, 2023 to May 1, 2023, and was documented in three episodes, two describing the process leading up to the competition and a final episode with the results.
 
 פרוייקט רובו-שאול היה תחרות לשכפול קולו של מגיש ״חיות כיס״, שאול אמסטרדמסקי, **בעברית**. התחרות הייתה בין התאריכים 22.2.2023 ל-1.5.2023, ותועדה בשלושה פרקים של הפודקאסט, שניים המתארים את התהליך שהוביל ליצירת התחרות, והשלישי מציג את התוצאות
@@ -11,8 +12,6 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
 [הפרק השלישי - Episode 3](https://omny.fm/shows/hayot-kiss/274)
 
 ## תוצאות - Results
-
-
 
 TODO: results table
 
