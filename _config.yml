@@ -1,5 +1,6 @@
 title: Robo-Shaul
-theme: jekyll-theme-dinky
+# theme: jekyll-theme-dinky
+theme: minima
 description: "The Robo-Shaul Competition"
 show_downloads: False
 # logo: images/social_preview.jpg
