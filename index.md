@@ -26,7 +26,7 @@ title: Robo-Shaul project
     white-space: normal;
     text-align: center
   }
-  .tg tr:first-child td {
+  .tg td:first-child {
     padding: 0px 10px;
   }
 
