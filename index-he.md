@@ -1,5 +1,6 @@
 ---
 title: פרוייקט רובו-שאול
+direction: rtl
 ---
 <style type="text/css">
   .tg {
