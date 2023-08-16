@@ -1,8 +1,7 @@
 ---
 ---
-
+$content-width: 960px;
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-$content-width: 960px;
