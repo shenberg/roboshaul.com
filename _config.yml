@@ -5,5 +5,5 @@ description: >
 The Robo-Shaul Competition was a 2023 competition to clone the 
 voice of Shaul Amsterdamski. The results are all here.
 show_downloads: False
-email: roboshaul@upai.dev
+email: "roboshaul@upai.dev"
 # logo: images/social_preview.jpg
