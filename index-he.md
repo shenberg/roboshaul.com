@@ -232,6 +232,8 @@ audio {
 אוריין שרוני - TODO
 
 רועי שנברג - TODO
+
+אורי אליאבייב - TODO
 ### קבוצה 1 - המנצחים
 [Solution link (GitHub)](https://github.com/maxmelichov/Text-To-speech), 
 

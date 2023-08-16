@@ -230,6 +230,8 @@ Shaul Amsterdamski - TODO
 Orian Sharoni - TODO
 
 Roee Shenberg - TODO
+
+Uri Elyabayev - TODO
 ### Team 1 - Winners
 [Solution link (GitHub)](https://github.com/maxmelichov/Text-To-speech), 
 
