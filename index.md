@@ -180,7 +180,7 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
 </audio></td>
     </tr>
     <tr>
-      <td>כששאלתי אותה למה היא החליטה לפתוח עסק של לק גל, התשובה שלה היתה מאוד ברורה,</td>
+      <td>כששאלתי אותה למה היא החליטה לפתוח עסק של לק ג'ל, התשובה שלה היתה מאוד ברורה,</td>
       <td><audio id="audio-small" controls>
     <source src="audio/baseline/4_nailpolish_baseline.wav" type="audio/wav">
 </audio></td>
@@ -269,4 +269,4 @@ Dr. Eyal Gruss - Code/media/text artist, algorithms researcher, teaches computat
 
 ### Contact
 
-For inquiries, send an email to [roboshaul@upai.dev](mailto:roboshaul@upai.dev)
+For inquiries, email us at [roboshaul@upai.dev](mailto:roboshaul@upai.dev)
