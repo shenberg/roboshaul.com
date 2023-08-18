@@ -116,6 +116,7 @@ audio {
   <thead>
     <tr style="text-align: center;">
       <th>תמליל</th>
+      <th>הקלטת מקור</th>
       <th>מערכת בסיס</th>
       <th>קבוצה 1</th>
       <th>קבוצה 2</th>
@@ -129,6 +130,9 @@ audio {
 אתם האזנתם לחיות כיס, הפודקאסט הכלכלי של כאן.
 עורך חיות כיס הוא תומר מיכלזון.
 במערכת חיות כיס תמצאו גם את צליל אברהם,</td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/shaul/1_opening_shaul.wav" type="audio/wav">
+</audio></td>
       <td><audio id="audio-small" controls>
     <source src="audio/baseline/1_opening_baseline.wav" type="audio/wav">
 </audio></td>
@@ -148,6 +152,9 @@ audio {
     <tr>
       <td>אבל מה שעובר על סמוטריץ הוא לא הסיפור. הסיפור הוא משהו אחר לגמרי.</td>
       <td><audio id="audio-small" controls>
+    <source src="audio/shaul/2_story_shaul.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
     <source src="audio/baseline/2_story_baseline.wav" type="audio/wav">
 </audio></td>
       <td><audio id="audio-small" controls>
@@ -166,6 +173,9 @@ audio {
     <tr>
       <td>ובשביל להבין למה מחיר הדלק כל כך עלה, צריך לחזור שנתיים אחורנית.</td>
       <td><audio id="audio-small" controls>
+    <source src="audio/shaul/3_prices_shaul.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
     <source src="audio/baseline/3_prices_baseline.wav" type="audio/wav">
 </audio></td>
       <td><audio id="audio-small" controls>
@@ -182,7 +192,10 @@ audio {
 </audio></td>
     </tr>
     <tr>
-      <td>כששאלתי אותה למה היא החליטה לפתוח עסק של לק ג'ל, התשובה שלה היתה מאוד ברורה,</td>
+      <td>כששאלתי אותה למה היא החליטה לפתוח עסק של לק ג&#x27;ל, התשובה שלה היתה מאוד ברורה,</td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/shaul/4_nailpolish_shaul.wav" type="audio/wav">
+</audio></td>
       <td><audio id="audio-small" controls>
     <source src="audio/baseline/4_nailpolish_baseline.wav" type="audio/wav">
 </audio></td>
@@ -201,6 +214,9 @@ audio {
     </tr>
     <tr>
       <td>תגידו, גנבו לכם פעם את האוטו ופשוט ידעתם שאין טעם להגיש תלונה במשטרה?</td>
+      <td><audio id="audio-small" controls>
+    <source src="audio/shaul/5_police_shaul.wav" type="audio/wav">
+</audio></td>
       <td><audio id="audio-small" controls>
     <source src="audio/baseline/5_police_baseline.wav" type="audio/wav">
 </audio></td>
