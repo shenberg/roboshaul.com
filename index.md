@@ -234,7 +234,7 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
   </tbody>
 </table>
 
-The dataset and benchmark TTS system were published at INTERSPEECH 2023 as [SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion](TODO)
+The dataset and benchmark TTS system were published at INTERSPEECH 2023 as [SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion](https://www.isca-speech.org/archive/interspeech_2023/sharoni23_interspeech.html) with [Erica Cooper](mailto:ecooper@cs.columbia.edu)
 
 The dataset is [available for download at OpenSLR](http://openslr.org/134/)
 
