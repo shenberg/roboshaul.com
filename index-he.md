@@ -236,9 +236,9 @@ audio {
   </tbody>
 </table>
 
-מאגר המידע ומערכת הבסיס הוצגו בכנס  INTERSPEECH 2023 תחת השם [SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion](TODO)
+מאגר המידע ומערכת הבסיס הוצגו בכנס  INTERSPEECH 2023 תחת השם [SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion](https://www.isca-speech.org/archive/interspeech_2023/sharoni23_interspeech.html) יחד עם [אריקה קופר](ecooper@cs.columbia.edu)
 
-מאגר המידע  [זמין להורדה באתר OpenSLR](http://openslr.org/134/)
+מאגר המידע [זמין להורדה באתר OpenSLR](http://openslr.org/134/)
 
 ## האנשים
 
