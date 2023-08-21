@@ -96,7 +96,11 @@ title: Robo-Shaul project
 }
 
 audio {
-    width: 110px;
+  width: 110px;
+}
+/* Safari hack :((((((( */
+_::-webkit-full-page-media, _:future, :root audio {
+  width: auto;
 }
 </style>
 
