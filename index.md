@@ -102,6 +102,10 @@ audio {
 _::-webkit-full-page-media, _:future, :root audio {
   width: auto;
 }
+
+h4 {
+  font-weight: bold;
+}
 </style>
 
 The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamski, presenter of the "Hayot Kis" podcast, **in Hebrew**. The competition ran between Feb 22, 2023 to May 1, 2023, and was documented in three episodes, two describing the process leading up to the competition and a final episode with the results.
