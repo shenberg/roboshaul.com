@@ -253,39 +253,40 @@ Uri Elyabayev - TODO
 ### 1st Place
 [Solution link (GitHub)](https://github.com/maxmelichov/Text-To-speech), 
 
-Max Melichov - As a versatile, analytical, and resourceful data scientist professional, I bring a wealth of experience in machine learning, data pre-processing, and voice processing techniques. With a proven track record in driving anomaly detection, disease detection, and deepfake algorithm construction, I am driven by the pursuit of organizational growth and thrive on triggering positive change. I champion efficiency, precision, and innovation, constantly seeking new opportunities to push the boundaries of data science.
+#### Max Melichov
+As a versatile, analytical, and resourceful data scientist professional, I bring a wealth of experience in machine learning, data pre-processing, and voice processing techniques. With a proven track record in driving anomaly detection, disease detection, and deepfake algorithm construction, I am driven by the pursuit of organizational growth and thrive on triggering positive change. I champion efficiency, precision, and innovation, constantly seeking new opportunities to push the boundaries of data science.
 
 [LinkedIn](https://www.linkedin.com/in/max-melichov/), [email](mailto:Maxme006@gmail.com), [Medium](https://medium.com/@maxme006)
 
-Tony Hasson - A software dev with the goal of achieving expertise in Python, Data (analyzing + management),Automating Workflow and Machine Learning.
+#### Tony Hasson
+A software dev with the goal of achieving expertise in Python, Data (analyzing + management),Automating Workflow and Machine Learning.
 
-Besides that, I'm a problem solver, a great teacher, "out of the box" thinker, a people's person, mostly self taught, philomath , good with numbers and an outer-space geek.
+Besides that, I'm a problem solver, a great teacher, "out of the box" thinker, a people-person, mostly self taught, philomath, good with numbers and an outer-space geek.
 
 [LinkedIn](https://www.linkedin.com/in/tony-hasson-a14402205/)
 
 ### 2nd Place
 [Solution link (GitHub)](https://github.com/maxlvov/roboshaul_tts_vc)
-Maxim Lvov - A researcher and algorithms developer in fields of AI, speech recognition and NLP.
+#### Maxim Lvov
+A researcher and algorithms developer in fields of AI, speech recognition and NLP.
 
 [LinkedIn](https://www.linkedin.com/in/maxim-lvov-a0042a8b/)
 
 ### 3rd Place
 [Solution link (GitHub)](https://github.com/gabykh1/Robo-Shaul)
 
-Gabriel Khvalevsky - I am an independent and fast learner with a "can do" approach
+#### Gabriel Khvalevsky
+I am an independent and fast learner with a "can do" approach
 
 You don't require the perfect approval to commence your journey.
-I didn't originate from the realm of artificial intelligence, nor did I undergo structured programming training.
-Nevertheless, I attempted, and I made multiple attempts using diverse approaches.
-Ultimately, I triumphed, and I take great pride in my accomplishments.
-In conclusion, I summarize my experience in the finest contest with this phrase:
-"Success greets those who persistently knock on the door."
+I didn't originate from the realm of artificial intelligence, nor did I undergo structured programming training. Nevertheless, I attempted, and I made multiple attempts using diverse approaches. Ultimately, I triumphed, and I take great pride in my accomplishments. In conclusion, I summarize my experience in the finest contest with this phrase: "Success greets those who persistently knock on the door."
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-khvalevsky/) [Email](mailto:gaby2002yo@gmail.com)
 ### 4th Place
 [Solution link (Google Colab)](http://bit.ly/roboshaul)
 
-Dr. Eyal Gruss - Code/media/text artist, algorithms researcher, teaches computational creativity at the Holon Institute of Technology.
+#### Dr. Eyal Gruss
+Code/media/text artist, algorithms researcher, teaches computational creativity at the Holon Institute of Technology.
 
 ### Contact
 
