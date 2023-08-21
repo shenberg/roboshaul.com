@@ -102,10 +102,12 @@ audio {
 
 The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamski, presenter of the "Hayot Kis" podcast, **in Hebrew**. The competition ran between Feb 22, 2023 to May 1, 2023, and was documented in three episodes, two describing the process leading up to the competition and a final episode with the results.
 
-[Episode 1](https://omny.fm/shows/hayot-kiss/257)
+The dataset and benchmark TTS system were published at INTERSPEECH 2023 as [SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion](https://www.isca-speech.org/archive/interspeech_2023/sharoni23_interspeech.html) with [Erica Cooper](mailto:ecooper@cs.columbia.edu)
 
-[Episode 2](https://omny.fm/shows/hayot-kiss/258)
+The dataset is [available for download at OpenSLR](http://openslr.org/134/)
 
+Podcast Episodes (Hebrew): [Episode 1](https://omny.fm/shows/hayot-kiss/257),
+[Episode 2](https://omny.fm/shows/hayot-kiss/258),
 [Episode 3](https://omny.fm/shows/hayot-kiss/274)
 
 ## Results
@@ -116,10 +118,10 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
       <th>Transcript</th>
       <th>Ground Truth</th>
       <th>Baseline</th>
-      <th>Team 1</th>
-      <th>Team 2</th>
-      <th>Team 3</th>
-      <th>Team 4</th>
+      <th>1st Place</th>
+      <th>2nd Place</th>
+      <th>3rd Place</th>
+      <th>4th Place</th>
     </tr>
   </thead>
   <tbody>
@@ -234,10 +236,6 @@ The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamsk
   </tbody>
 </table>
 
-The dataset and benchmark TTS system were published at INTERSPEECH 2023 as [SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion](https://www.isca-speech.org/archive/interspeech_2023/sharoni23_interspeech.html) with [Erica Cooper](mailto:ecooper@cs.columbia.edu)
-
-The dataset is [available for download at OpenSLR](http://openslr.org/134/)
-
 ## The People
 
 ### Organizers
@@ -248,7 +246,7 @@ Orian Sharoni - TODO
 Roee Shenberg - TODO
 
 Uri Elyabayev - TODO
-### Team 1 - Winners
+### 1st Place
 [Solution link (GitHub)](https://github.com/maxmelichov/Text-To-speech), 
 
 Max Melichov - As a versatile, analytical, and resourceful data scientist professional, I bring a wealth of experience in machine learning, data pre-processing, and voice processing techniques. With a proven track record in driving anomaly detection, disease detection, and deepfake algorithm construction, I am driven by the pursuit of organizational growth and thrive on triggering positive change. I champion efficiency, precision, and innovation, constantly seeking new opportunities to push the boundaries of data science.
@@ -261,13 +259,13 @@ Besides that, I'm a problem solver, a great teacher, "out of the box" thinker, a
 
 [LinkedIn](https://www.linkedin.com/in/tony-hasson-a14402205/)
 
-### Team 2
+### 2nd Place
 [Solution link (GitHub)](https://github.com/maxlvov/roboshaul_tts_vc)
 Maxim Lvov - A researcher and algorithms developer in fields of AI, speech recognition and NLP.
 
 [LinkedIn](https://www.linkedin.com/in/maxim-lvov-a0042a8b/)
 
-### Team 3
+### 3rd Place
 [Solution link (GitHub)](https://github.com/gabykh1/Robo-Shaul)
 
 Gabriel Khvalevsky - I am an independent and fast learner with a "can do" approach
@@ -280,10 +278,10 @@ In conclusion, I summarize my experience in the finest contest with this phrase:
 "Success greets those who persistently knock on the door."
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-khvalevsky/) [Email](mailto:gaby2002yo@gmail.com)
-### Team 4
+### 4th Place
 [Solution link (Google Colab)](http://bit.ly/roboshaul)
 
-Dr. Eyal Gruss - Code/media/text artist, algorithms researcher, teaches computational creativity at the Holon institute of Technology.
+Dr. Eyal Gruss - Code/media/text artist, algorithms researcher, teaches computational creativity at the Holon Institute of Technology.
 
 ### Contact
 
