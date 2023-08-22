@@ -108,7 +108,7 @@ h4 {
 }
 </style>
 
-The Robo-Shaul project was competition aimed at developing the first open **Hebrew** text-to-speech engine that replicates the voice of Shaul Amsterdamski, journalist & co-host of the popular Israeli podcast “Hayot Kis”.
+The Robo-Shaul project was a competition aimed at developing the first open **Hebrew** text-to-speech engine that replicates the voice of Shaul Amsterdamski, journalist & co-host of the popular Israeli podcast “Hayot Kis”.
  The competition ran from February, 2023 to May, 2023, and was documented in three episodes, two describing the process leading up to the competition and a final episode with the results.
 
 #### Paper
