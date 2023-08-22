@@ -108,7 +108,8 @@ h4 {
 }
 </style>
 
-The Robo-Shaul project was a competition to clone the voice of Shaul Amsterdamski, presenter of the "Hayot Kis" podcast, **in Hebrew**. The competition ran between Feb 22, 2023 to May 1, 2023, and was documented in three episodes, two describing the process leading up to the competition and a final episode with the results.
+The Robo-Shaul project was competition aimed at developing the first open **Hebrew** text-to-speech engine that replicates the voice of Shaul Amsterdamski, journalist & co-host of the popular Israeli podcast “Hayot Kis”.
+ The competition ran between Feb 22, 2023 to May 1, 2023, and was documented in three episodes, two describing the process leading up to the competition and a final episode with the results.
 
 The dataset and benchmark TTS system were published at INTERSPEECH 2023 as [SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion](https://www.isca-speech.org/archive/interspeech_2023/sharoni23_interspeech.html) with [Erica Cooper](mailto:ecooper@cs.columbia.edu)
 
