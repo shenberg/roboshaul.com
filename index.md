@@ -109,13 +109,16 @@ h4 {
 </style>
 
 The Robo-Shaul project was competition aimed at developing the first open **Hebrew** text-to-speech engine that replicates the voice of Shaul Amsterdamski, journalist & co-host of the popular Israeli podcast “Hayot Kis”.
- The competition ran between Feb 22, 2023 to May 1, 2023, and was documented in three episodes, two describing the process leading up to the competition and a final episode with the results.
+ The competition ran from February, 2023 to May, 2023, and was documented in three episodes, two describing the process leading up to the competition and a final episode with the results.
 
-The dataset and benchmark TTS system were published at INTERSPEECH 2023 as [SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion](https://www.isca-speech.org/archive/interspeech_2023/sharoni23_interspeech.html) with [Erica Cooper](mailto:ecooper@cs.columbia.edu)
+#### Paper
+The dataset and benchmark TTS system were published at INTERSPEECH 2023 as [SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion](https://www.isca-speech.org/archive/interspeech_2023/sharoni23_interspeech.html)
 
-The dataset is [available for download at OpenSLR](http://openslr.org/134/)
+#### Dataset
+[Available for download at OpenSLR](http://openslr.org/134/)
 
-Podcast Episodes (Hebrew): [Episode 1](https://omny.fm/shows/hayot-kiss/257),
+#### Podcast Episodes
+(Hebrew): [Episode 1](https://omny.fm/shows/hayot-kiss/257),
 [Episode 2](https://omny.fm/shows/hayot-kiss/258),
 [Episode 3](https://omny.fm/shows/hayot-kiss/274)
 
@@ -245,7 +248,7 @@ Podcast Episodes (Hebrew): [Episode 1](https://omny.fm/shows/hayot-kiss/257),
   </tbody>
 </table>
 
-## The People
+## People
 
 ### Organizers
 Shaul Amsterdamski - TODO
@@ -261,7 +264,7 @@ Uri Elyabayev - TODO
 #### Max Melichov
 As a versatile, analytical, and resourceful data scientist professional, I bring a wealth of experience in machine learning, data pre-processing, and voice processing techniques. With a proven track record in driving anomaly detection, disease detection, and deepfake algorithm construction, I am driven by the pursuit of organizational growth and thrive on triggering positive change. I champion efficiency, precision, and innovation, constantly seeking new opportunities to push the boundaries of data science.
 
-[LinkedIn](https://www.linkedin.com/in/max-melichov/), [email](mailto:Maxme006@gmail.com), [Medium](https://medium.com/@maxme006)
+[LinkedIn](https://www.linkedin.com/in/max-melichov/), [Email](mailto:Maxme006@gmail.com), [Medium](https://medium.com/@maxme006)
 
 #### Tony Hasson
 A software dev with the goal of achieving expertise in Python, Data (analyzing + management),Automating Workflow and Machine Learning.
