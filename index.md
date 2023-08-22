@@ -251,15 +251,18 @@ The dataset and benchmark TTS system were published at INTERSPEECH 2023 as [SASP
 ## People
 
 ### Organizers
-Shaul Amsterdamski - TODO
+Shaul Amsterdamski - journalist & co-host of the Israeli podcast “Hayot Kis”
 
-Orian Sharoni - TODO
 
-Roee Shenberg - TODO
+Orian Sharoni - ML researcher and founder of UpᐧAI consultancy
 
-Uri Elyabayev - TODO
+Roee Shenberg - ML researcher and founder of UpᐧAI consultancy
+
+Uri Elyabayev - Consultant and founder of [MDLI](https://www.facebook.com/groups/543283492502370)
+ community
+
 ### 1st Place
-[Solution link (GitHub)](https://github.com/maxmelichov/Text-To-speech), 
+[Solution link (GitHub)](https://github.com/maxmelichov/Text-To-speech)
 
 #### Max Melichov
 As a versatile, analytical, and resourceful data scientist professional, I bring a wealth of experience in machine learning, data pre-processing, and voice processing techniques. With a proven track record in driving anomaly detection, disease detection, and deepfake algorithm construction, I am driven by the pursuit of organizational growth and thrive on triggering positive change. I champion efficiency, precision, and innovation, constantly seeking new opportunities to push the boundaries of data science.
@@ -289,7 +292,7 @@ I am an independent and fast learner with a "can do" approach
 You don't require the perfect approval to commence your journey.
 I didn't originate from the realm of artificial intelligence, nor did I undergo structured programming training. Nevertheless, I attempted, and I made multiple attempts using diverse approaches. Ultimately, I triumphed, and I take great pride in my accomplishments. In conclusion, I summarize my experience in the finest contest with this phrase: "Success greets those who persistently knock on the door."
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-khvalevsky/) [Email](mailto:gaby2002yo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gabriel-khvalevsky/), [Email](mailto:gaby2002yo@gmail.com)
 ### 4th Place
 [Solution link (Google Colab)](http://bit.ly/roboshaul)
 
@@ -298,4 +301,4 @@ Code/media/text artist, algorithms researcher, teaches computational creativity 
 
 ### Contact
 
-For inquiries, email us at [roboshaul@upai.dev](mailto:roboshaul@upai.dev)
+For inquiries email us at [roboshaul@upai.dev](mailto:roboshaul@upai.dev)
