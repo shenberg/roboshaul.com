@@ -117,6 +117,10 @@ The dataset and benchmark TTS system were published at INTERSPEECH 2023 as [SASP
 #### Dataset
 [Available for download at OpenSLR](http://openslr.org/134/)
 
+#### Code
+
+Code & model for the benchmark TTS system is [available on GitHub](https://github.com/Sharonio/roboshaul)
+
 #### Podcast Episodes
 (Hebrew): [Episode 1](https://omny.fm/shows/hayot-kiss/257),
 [Episode 2](https://omny.fm/shows/hayot-kiss/258),
